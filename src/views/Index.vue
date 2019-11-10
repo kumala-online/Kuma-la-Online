@@ -8,7 +8,7 @@
             <h3 class="title">Bringing businesses to your fingertips</h3>
             <h4
               style="font-weight:bold"
-            >We connect you to the enterprise of your dreams, we know exactly what you need. Fint the perfect people to serve you !</h4>
+            >We connect you to the enterprise of your dreams, we know exactly what you need. Find the perfect people to serve you !</h4>
             <br />
             <md-button
               href
